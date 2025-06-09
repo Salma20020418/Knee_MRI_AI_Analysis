@@ -1,0 +1,15 @@
+output*
+features*
+/data_set/*
+/Dataset/*
+__pycache__
+predictions
+Sample
+Survey
+test
+UI
+weights
+*.pth
+tempCodeRunnerFile.py
+
+
